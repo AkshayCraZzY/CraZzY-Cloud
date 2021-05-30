@@ -1,4 +1,4 @@
 @import url(https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css);
 @import url(https://cdn.jsdelivr.net/npm/font-awesome-animation@latest/dist/font-awesome-animation.min.css);
-@import url(bulma.min.css);
-@import url(viewerjs.css);
+@import url(https://cdn.jsdelivr.net/gh/jgthms/bulma@latest/css/bulma.min.css);
+@import url(https://cdn.jsdelivr.net/ghfengyuanchen/viewerjs@latest/dist/viewer.min.css);
